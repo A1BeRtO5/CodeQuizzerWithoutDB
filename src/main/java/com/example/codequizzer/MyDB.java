@@ -9,12 +9,12 @@ public class MyDB {
     public MyDB() {
 
     int counter = 0;
-        programmDB.put(++counter, "Чи є різн11111111111иця ++i i++ ? ");
-        programmDB.put(++counter, "Що 222222222222222222 ООП?");
-        programmDB.put(++counter, "Які є пр3333333333333333333инципи ООП?");
-        programmDB.put(++counter, "Що таке 44444444444444444абстракція?");
-        programmDB.put(++counter, "Що таке ін455555555555555555555капсуляція?");
-        programmDB.put(++counter, "Що таке на666666666666666666слідування?");
+        programmDB.put(++counter, "Чи є різниця ++i i++ ? ");
+        programmDB.put(++counter, "Що таке ООП?");
+        programmDB.put(++counter, "Які є принципи ООП?");
+        programmDB.put(++counter, "Що таке абстракція?");
+        programmDB.put(++counter, "Що таке інкапсуляція?");
+        programmDB.put(++counter, "Що таке наслідування?");
         programmDB.put(++counter, "Що таке поліморфізм?");
         programmDB.put(++counter, "Що таке відношення в джава?");
         programmDB.put(++counter, "Що таке асоціація?");

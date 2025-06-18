@@ -86,7 +86,7 @@ public class HelloController {
         Platform.exit();
     }
     @FXML
-    void randomSearchButton(ActionEvent event) {
+    void randomSearchButton(ActionEvent event) {//кнопка R - видає питання в рандомній послідовності
         randomChange = !randomChange; // Інверсія значення змінної randomChange
         System.out.println(randomChange);
     }
