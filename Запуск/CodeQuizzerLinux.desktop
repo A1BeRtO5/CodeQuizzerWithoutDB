@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=CodeQuizzer
+Comment=Start CodeQuizzer
+Exec=/home/debian/JavaPrograms/CodeQuizzerWithoutDB/LinuxRun/CodeQuizzer-x86_64.AppImage
+Icon=/home/debian/JavaPrograms/CodeQuizzerWithoutDB/LinuxRun/codequizzer.png
+Terminal=false
+Categories=Utility;
+
